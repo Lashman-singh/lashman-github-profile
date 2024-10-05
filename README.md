@@ -3,7 +3,7 @@
 <h3 align="center">Skilled Full Stack and Software Developer with expertise in web and application design and development, delivering high-quality results.</h3>
 <img align="right" alt="Coding" width="400" src="download.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lashman-singh&label=Profile%20views&color=0e75b6&style=flat" alt="Lashman-singh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Lashman-singh&label=Profile%20views&color=0e75b6&style=flat" alt="Lashman-singh" /> </p>
 
 - 🔭 I’m currently working on **Airbnb clone**
 
