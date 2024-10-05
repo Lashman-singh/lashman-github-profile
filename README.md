@@ -1,4 +1,4 @@
-![Header](./github-header-image)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Lashman Singh</h1>
 <h3 align="center">Skilled Full Stack and Software Developer with expertise in web and application design and development, delivering high-quality results.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Flottieanimationchainstarters--59813501292017265%2F&psig=AOvVaw0wYyTX2XTlr_MZEy1m_SiH&ust=1728174920649000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCjwcD_9YgDFQAAAAAdAAAAABAE">
